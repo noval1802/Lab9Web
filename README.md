@@ -30,30 +30,61 @@ http://localhost/lab9_php_modular/
 
 Implementasikan konsep modularisasi pada kode pemograman praktikum 8 tentang data base, sehingga setiap halamannya memiliki tamplate tampilan yang sama.
 
-### koneksi.php
+## Directory 
+
+![lab9](source/img/lab9.png)
+
+## Config
+
+**koneksi.php**
 
 ![koneksi](source/img/koneksi.png)
 
-### tambah.php
+**tambah.php**
 
 ![tambah](source/img/tambah.png)
 
-### ubah.php
+**ubah.php**
 
 ![ubah](source/img/ubah.png)
 
-### hapus.php
+**hapus.php**
 
 ![hapus](source/img/hapus.png)
 
-### layout
+## layout
 
+**head-static.php**
 ![layout](source/img/layout.png)
 
-### header.php
+**header.php**
 
 ![header](source/img/header.png)
 
-### main.php
+**main.php**
 
 ![main](source/img/main.png)
+
+**footer.php**
+
+![footer](source/img/footer1.png)
+
+## Static
+
+**style.css**
+
+![css](source/img/css.png)
+
+## Sub-file
+
+**index.php**
+
+![index](source/img/index0.png)
+
+**tambah.php**
+
+![tambah](source/img/tambah0.png)
+
+**ubah.php**
+
+![ubah](source/img/ubah0.png)
