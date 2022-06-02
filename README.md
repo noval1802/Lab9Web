@@ -45,3 +45,15 @@ Implementasikan konsep modularisasi pada kode pemograman praktikum 8 tentang dat
 ### hapus.php
 
 ![hapus](source/img/hapus.png)
+
+### layout
+
+![layout](source/img/layout.png)
+
+### header.php
+
+![header](source/img/header.png)
+
+### main.php
+
+![main](source/img/main.png)
