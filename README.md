@@ -88,3 +88,7 @@ Implementasikan konsep modularisasi pada kode pemograman praktikum 8 tentang dat
 **ubah.php**
 
 ![ubah](source/img/ubah0.png)
+
+## Hasil Output
+
+![output](source/img/hsl.png)
